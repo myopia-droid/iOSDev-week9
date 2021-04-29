@@ -1,1 +1,5 @@
 The application of AI includes computer vision, NLP, data analysis and prediction..
+
+Please use apostrophes.
+
+Would anyone like some stew?
